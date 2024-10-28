@@ -1,18 +1,99 @@
-# OS
-
-
 ## 1주차 주제 : OS
 ### 공통 질문 
 1. **OS(운영체제)가 무엇인지 설명해주실 수 있나요?**
-    - 운영체제의 역할과 기능을 이해하는 것은 CS의 기본입니다.
+> 운영체제의 역할과 기능을 이해하는 것은 CS의 기본입니다.
+<details>
+  <summary>김영주</summary>
+  <!-- 내용 -->
+</details>
+<details>
+  <summary>이지원</summary>
+  <!-- 내용 -->
+</details>
+<details>
+  <summary>정은경</summary>
+  <!-- 내용 -->
+</details>
+<details>
+  <summary>정진희</summary>
+  <!-- 내용 -->
+</details>
+
 2. **프로세스와 쓰레드에 대해 설명하고, 둘의 차이에 대해 설명해주세요.**
-    - 프로세스와 쓰레드는 멀티태스킹 및 시스템 리소스 관리의 핵심 개념입니다.
+> 프로세스와 쓰레드는 멀티태스킹 및 시스템 리소스 관리의 핵심 개념입니다.
+<details>
+  <summary>김영주</summary>
+  <!-- 내용 -->
+</details>
+<details>
+  <summary>이지원</summary>
+  <!-- 내용 -->
+</details>
+<details>
+  <summary>정은경</summary>
+  <!-- 내용 -->
+</details>
+<details>
+  <summary>정진희</summary>
+  <!-- 내용 -->
+</details>
+
 3. **메모리의 힙 영역과 스택 영역의 차이에 대해 설명해주세요.**
-    - 메모리 구조를 이해하는 것은 프로그램의 동작 방식을 이해하는 데 필수적입니다.
+> 메모리 구조를 이해하는 것은 프로그램의 동작 방식을 이해하는 데 필수적입니다.
+<details>
+  <summary>김영주</summary>
+  <!-- 내용 -->
+</details>
+<details>
+  <summary>이지원</summary>
+  <!-- 내용 -->
+</details>
+<details>
+  <summary>정은경</summary>
+  <!-- 내용 -->
+</details>
+<details>
+  <summary>정진희</summary>
+  <!-- 내용 -->
+</details>
+
 4. **DeadLock(교착상태)에 대해 설명하고, 해결 방법에 대해 설명해주세요.**
-    - 멀티쓰레드 환경에서의 동기화 문제는 중요한 이슈입니다.
+> 멀티쓰레드 환경에서의 동기화 문제는 중요한 이슈입니다.
+<details>
+  <summary>김영주</summary>
+  <!-- 내용 -->
+</details>
+<details>
+  <summary>이지원</summary>
+  <!-- 내용 -->
+</details>
+<details>
+  <summary>정은경</summary>
+  <!-- 내용 -->
+</details>
+<details>
+  <summary>정진희</summary>
+  <!-- 내용 -->
+</details>
+
 5. **동시성과 병렬성이 어떻게 다른지 설명해주세요.**
-    - 이 두 개념의 차이를 이해하는 것은 현대 컴퓨터 시스템의 성능 최적화에 중요합니다.
+> 이 두 개념의 차이를 이해하는 것은 현대 컴퓨터 시스템의 성능 최적화에 중요합니다.
+<details>
+  <summary>김영주</summary>
+  <!-- 내용 -->
+</details>
+<details>
+  <summary>이지원</summary>
+  <!-- 내용 -->
+</details>
+<details>
+  <summary>정은경</summary>
+  <!-- 내용 -->
+</details>
+<details>
+  <summary>정진희</summary>
+  <!-- 내용 -->
+</details>
   
 
 ### 공부한 내용 정리한 링크
