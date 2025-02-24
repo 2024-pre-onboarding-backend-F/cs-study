@@ -2,11 +2,14 @@
 
 ### 🎨 공통 질문 
 
-1. **Array와 LinkedList의 차이점**
+1. **Array와 LinkedList의 차이점에 대해 설명해 주세요.**
 
 <details>
   <summary>김영주</summary>
-  <!-- 내용 -->
+
+  >  **Array**는 **배열을 선언할 때 크기와 데이터 타입을 지정**해야 하며, 중간에 데이터를 삽입하거나 삭제할 시 매우 비효율적 입니다. </br>
+  > **LinkedList**는 **한 노드에 연결 될 노드의 포인터 위치를 가리키는 방식**이기에 삽입과 삭제 시 주소 값만 바꾸어 연결해 주기 때문에 빠르게 진행이 가능합니다.</br>
+  > 결론적으로, **Array는 인덱스로 값을 찾는데 빠르지만, LinkedList는 값의 삽입과 삭제가 빠릅니다.**
 </details>
 
 <details>
@@ -34,11 +37,13 @@
 
 </br>
 
-2. **Stack과 Queue의 개념 및 사용 사례**
+2. **Stack과 Queue의 개념 및 사용 사례를 설명해 주세요.**
 
 <details>
   <summary>김영주</summary>
-  <!-- 내용 -->
+
+  > **스택**이란 **LIFO 형식**을 사용하며 콜스택, 문자열 역순 출력, 연산자 후위 표기법, **뒤로가기** 기능 때 많이 사용합니다.</br>
+  > **큐**란 **FIFO 형식**을 사용하며, 버퍼, 마구 입력된 것을 처리하지 못하는 상황, **BFS, 줄서기** 등에 사용이 됩니다. </br> 
 </details>
 
 <details>
@@ -66,11 +71,13 @@
 
 </br>
 
-3. **Priority Queue 및 Heap**
+3. **Priority Queue 및 Heap에 대해 설명해 주세요.**
 
 <details>
   <summary>김영주</summary>
-  <!-- 내용 -->
+  
+  > **우선순위 큐**란 데이터들이 우선 순위를 가지고 있고, **우선순위가 높은 데이터가 먼저 나갑니다.** 배열, 연결리스트 힙으로 구현하며 시뮬레이션 시스템, 작업 스케줄링, 수치해석 계산에 사용됩니다.</br>
+  > **힙**이란 **완전 이진 트리의 일종으로 여러 값 중 최대값과 최소값을 빠르게 찾아내도록 만들어진 자료구조**입니다. 최대 힙과 최소 힙 두 가지 종류가 있습니다.
 </details>
 
 <details>
@@ -105,7 +112,9 @@
 
 <details>
   <summary>김영주</summary>
-  <!-- 내용 -->
+  
+  > **해쉬 테이블**이란 **Key-Value 한 쌍으로 값을 저장하는 자료구조**이며, 해쉬 테이블에 key로 접근했을 때 hash function에서 나온 hash 값을 저장소 인덱스로 활용합니다.</br>
+  > **Hash Collision**이란 **다른 데이터가 같은 해시 값으로 충돌나는 현상**을 말합니다. 이에 대한 해결 방법으로는 **체이닝(연결 리스트를 사용한 충돌 해결), Open Addressing(다른 빈 공간에 데이터를 저장), 선형 탐사(정해진 고정 폭 옮김), 제곱 탐사(정해진 고정폭을 제곱수로 옮김)**이 있습니다.
 </details>
 
 <details>
@@ -293,7 +302,7 @@
 ### 💫 공부한 내용 정리한 링크
 | 이름 | 블로그 링크 |
 |------|--------------|
-|김영주||
+|김영주|<a href="https://kimeyou.tistory.com/130" target="_blank">Ctrl 또는 Command 눌러서 새 창에서 열기</a>|
 |이지원|<a href="data_structure_jiwon.md" target="_blank">github md파일</a>|
 |정은경|<a href="https://velog.io/@jeg1124/series/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0" target="_blank">블로그 링크</a>|
 |정진희|<a href="https://velog.io/@jjh0526/series/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EB%8C%80%EB%B9%84-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0" target="_blank">자료구조 블로그 링크</a>|
